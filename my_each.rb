@@ -5,4 +5,5 @@ def my_each(array)
       puts x
       i += 1
     end
+  end
 end
